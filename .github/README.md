@@ -15,7 +15,7 @@
 <p align="center"><a href="https://t.me/LORD_NEONEX_FL4ME"><img src="https://telegra.ph/file/92973d3b8b6feece5cd9c.jpgi" width="400"></a></p>
 
 
-> ⭐️ Thanks to everyone for using THIS REPO FOR YOUR STRING GENERATOR BOT , That is the greatest pleasure we have ! THIS REPO IS EDITED AND BROUGHT TO YOU BUY FLAME NETWORK (https://t.me/FL4ME_NETWORK) 
+> ⭐️ Thanks to everyone for using THIS REPO! THIS REPO IS EDITED AND BROUGHT TO YOU BUY FLAME NETWORK (https://t.me/FL4ME_NETWORK) 
 
 <br>
 
