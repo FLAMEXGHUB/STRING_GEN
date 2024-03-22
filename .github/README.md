@@ -10,7 +10,7 @@
 
 <h1 align="center"><b 🥀𝗦𝗧𝗥𝗜𝗡𝗚 𝗚𝗘𝗡𝗘𝗥𝗔𝗧𝗢𝗥 🥀</b></h1>
 
-<h4 align="center"> 𝐓𝐇𝐄 𝐏𝐎𝐖𝐄𝐑𝐅𝐔𝐋 𝐒𝐏𝐀𝐌𝐁𝐎𝐓𝐒</h4>
+<h4 align="center"> 𝚃𝙷𝙸𝚂 𝙱𝙾𝚃 𝙸𝚂 𝙱𝚁𝙾𝚄𝙶𝙷𝚃 𝚃𝙾 𝚈𝙾𝚄 𝙱𝚈 𝚃𝙴𝙰𝙼 𝙵𝙻𝙰𝙼𝙴 ✨</h4>
 
 <p align="center"><a href="https://t.me/LORD_NEONEX_FL4ME"><img src="https://telegra.ph/file/7decd8c0428c5243868da.jpg" width="400"></a></p>
 
