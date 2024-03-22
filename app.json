@@ -11,7 +11,7 @@
         "pyrogram",
         "telethon"
     ],
-    "repository": "https://github.com/FLAMEXGHUB/STRING_BOT",
+    "repository": "https://github.com/FLAMEXGHUB/STRING_GEN",
     "env": {
       "API_ID": {
         "description": "Get this value from https://my.telegram.org",
