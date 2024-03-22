@@ -12,7 +12,7 @@
 
 <h4 align="center"> 𝐓𝐇𝐄 𝐏𝐎𝐖𝐄𝐑𝐅𝐔𝐋 𝐒𝐏𝐀𝐌𝐁𝐎𝐓𝐒</h4>
 
-<p align="center"><a href="https://t.me/LORD_NEONEX_FL4ME"><img src="https://telegra.ph/file/92973d3b8b6feece5cd9c.jpgi" width="400"></a></p>
+<p align="center"><a href="https://t.me/LORD_NEONEX_FL4ME"><img src="https://telegra.ph/file/7decd8c0428c5243868da.jpg" width="400"></a></p>
 
 
 > ⭐️ Thanks to everyone for using THIS REPO! THIS REPO IS EDITED AND BROUGHT TO YOU BUY FLAME NETWORK (https://t.me/FL4ME_NETWORK) 
