@@ -13,3 +13,9 @@ async def f_start(_, message: Message):
         disable_web_page_preview=True,
     )
     await add_served_user(message.from_user.id)
+await event.client.send_file(
+                    event.chat_id,
+                    "https://telegra.ph/file/386225057c825d3023789.mp4",
+                    caption=TEXT, 
+                    buttons=START_BUTTON
+                )
