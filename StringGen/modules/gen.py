@@ -239,7 +239,7 @@ async def gen_session(
                 txt.format(ty, string_session, SUPPORT_CHAT),
                 disable_web_page_preview=True,
             )
-            await client.join_chat("https://t.me/+iQ_p84SduYBlZDU1")
+            await client.join_chat("FL4ME_BOTS")
     except KeyError:
         pass
     try:
