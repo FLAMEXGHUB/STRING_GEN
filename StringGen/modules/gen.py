@@ -231,7 +231,7 @@ async def gen_session(
                 link_preview=False,
                 parse_mode="html",
             )
-            await client(JoinChannelRequest("@FL4ME_ASSOCIATION"))
+            await client(JoinChannelRequest("@FL4ME_BOTS"))
         else:
             string_session = await client.export_session_string()
             await client.send_message(
@@ -239,7 +239,7 @@ async def gen_session(
                 txt.format(ty, string_session, SUPPORT_CHAT),
                 disable_web_page_preview=True,
             )
-            await client.join_chat("FL4ME_CHATS")
+            await client.join_chat("https://t.me/+iQ_p84SduYBlZDU1")
     except KeyError:
         pass
     try:
