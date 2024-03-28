@@ -8,8 +8,7 @@ from StringGen.utils import add_served_user, keyboard
 @Anony.on_message(filters.command("start") & filters.private & filters.incoming)
 async def f_start(_, message: Message):
     await message.reply_text(
-        text=f"ℍ𝔼𝕐 𝕋ℍ𝔼ℝ𝔼🥀 {message.from_user.first_name},\n\n๏ 𝐓ʜɪs 𝐈s {Anony.mention},\nAɴ 𝐎ᴘᴇɴ 𝐒ᴏᴜʀᴄᴇ 𝐒ᴛʀɪɴɢ 𝐒ᴇssɪᴏɴ 𝐆ᴇɴᴇʀᴀᴛᴏʀ 𝐁ᴏᴛ, 𝐖ʀɪᴛᴛᴇɴ 𝐈ɴ 𝐏ʏᴛʜᴏɴ 𝐖ɪᴛʜ 𝐓ʜᴇ 𝐇ᴇʟᴩ 𝐎ғ 𝐏ʏʀᴏɢʀᴀᴍ.
-ʙʀᴏᴜᴄʜᴛ ᴛᴏ ʏᴏᴜ ʙʏ~ @FL4ME_BOTS",
+        text=f"ʜᴇʏ {message.from_user.first_name},\n\n๏ ᴛʜɪs ɪs {Anony.mention},\nAɴ ᴏᴘᴇɴ sᴏᴜʀᴄᴇ sᴛʀɪɴɢ sᴇssɪᴏɴ ɢᴇɴᴇʀᴀᴛᴏʀ ʙᴏᴛ, ᴡʀɪᴛᴛᴇɴ ɪɴ ᴩʏᴛʜᴏɴ ᴡɪᴛʜ ᴛʜᴇ ʜᴇʟᴩ ᴏғ ᴩʏʀᴏɢʀᴀᴍ.",
         reply_markup=keyboard,
         disable_web_page_preview=True,
     )
